@@ -23,4 +23,14 @@ I will try to spend most of the time working on data science projects
 *Thoughts:* doing the aggregation in postgres is much quicker than in pandas. creating the white player table for 73 million games took just 5 minutes on my laptop.
 
 
+### Day 3: 05/22/2020
 
+*Today's Progress:* Not much needed to go back to postgres and do more queries.
+
+*Thoughts:* I need to get better at SQL (among many other things)
+
+### Day 4: 05/23/2020
+
+*Today's Progress:* I found two errors that prevented me from capturing the titled data and I explored Bokeh, Seaborn, and Holoviews for plotting data
+
+*Thoughts:* Resetting a dictionary requires a copy that acts independent of the original. Also pay attention of where to put resets of values when dealing with loops.
