@@ -46,3 +46,9 @@ I will try to spend most of the time working on data science projects
 *Today's Progress:* I spent too much time again going back and forth with Pandas and Postgres. I planned to write out csv files of queries and load these into pandas to avoid running queries again and again. The problem I encountered was that I failed to find a satisfactory way to load column values that were postgres arrays into pandas as lists. The method I found didn't scale and crashed the kernel. So I went back to query from within python which circumvents the problem of reading unusual csv files. 
 
 *Thoughts:* I should find out how to store views in postgres, especially when queried through python in order to avoid rerunning queries. 
+
+### Day 6: 05/25/2020
+
+*Today's Progress:* very limited mostly dealing with postgres + pandas memory issues
+
+*Thoughts:* I might have to go back and write my postgres queries to csv files and read them in. For documentation purposes this should probably all be done through Python.
