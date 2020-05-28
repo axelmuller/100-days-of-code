@@ -47,8 +47,15 @@ I will try to spend most of the time working on data science projects
 
 *Thoughts:* I should find out how to store views in postgres, especially when queried through python in order to avoid rerunning queries. 
 
-### Day 6: 05/25/2020
+### Day 6: 05/26/2020
 
 *Today's Progress:* very limited mostly dealing with postgres + pandas memory issues
 
 *Thoughts:* I might have to go back and write my postgres queries to csv files and read them in. For documentation purposes this should probably all be done through Python.
+
+
+### Day 7: 05/27/2020
+
+*Today's Progress:* I got pgadmin4 to work and created a player-centric table. 
+
+*Thoughts:* Timezones, datetime64 are not that straight forward to handle with Bokeh. I will stick with Bokeh for plotting for a while now.
