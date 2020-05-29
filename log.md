@@ -59,3 +59,10 @@ I will try to spend most of the time working on data science projects
 *Today's Progress:* I got pgadmin4 to work and created a player-centric table. 
 
 *Thoughts:* Timezones, datetime64 are not that straight forward to handle with Bokeh. I will stick with Bokeh for plotting for a while now.
+
+### Day 8: 05/28/2020
+
+*Today's Progress: not much, bogged down with timedelta and datetime64. Decided to make a new column with the correct type rather than changing the existing type
+
+*Thoughts:* numpy and pandas can be great when dealing with time series but data needs to be of the right type. 
+
