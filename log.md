@@ -62,7 +62,13 @@ I will try to spend most of the time working on data science projects
 
 ### Day 8: 05/28/2020
 
-*Today's Progress: not much, bogged down with timedelta and datetime64. Decided to make a new column with the correct type rather than changing the existing type
+*Today's Progress:* not much, bogged down with timedelta and datetime64. Decided to make a new column with the correct type rather than changing the existing type
 
 *Thoughts:* numpy and pandas can be great when dealing with time series but data needs to be of the right type. 
+
+### Day 9: 05/29/2020
+
+*Today's Progress:* i finally found a (clumsy) way to create an index with a timestamp and to change it's timezone. The issue was that grouping by hour in postgres yielded data of the type timedelta.
+
+*Thoughts:* pandas has great tools to work with time series. however grouping by hours and a column yields a df with two indices. That in turn makes plotting with bokeh difficult.
 
