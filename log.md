@@ -72,3 +72,9 @@ I will try to spend most of the time working on data science projects
 
 *Thoughts:* pandas has great tools to work with time series. however grouping by hours and a column yields a df with two indices. That in turn makes plotting with bokeh difficult.
 
+### Day 10: 05/30/2020
+
+*Today's Progress: More timeseries. Slowly getting the data in a shape I need to.
+
+*Thoughts:* I need to apply what I learned to my data and think about what is needed to complete the project.
+
