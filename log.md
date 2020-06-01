@@ -78,3 +78,10 @@ I will try to spend most of the time working on data science projects
 
 *Thoughts:* I need to apply what I learned to my data and think about what is needed to complete the project.
 
+
+### Day 11: 05/31/2020
+
+*Today's Progress:* Learned how to plot time series efficiently with pandas. 
+
+*Thoughts:* Need to get my act together with Bokeh. Also decided on a couple of new projects: 1 pdb entries analyzing headers, resolution by year, method, location, synchrotron, protein class, ...
+for text mining NIH reporter might offer something. 
