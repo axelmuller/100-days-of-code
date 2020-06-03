@@ -85,3 +85,10 @@ I will try to spend most of the time working on data science projects
 
 *Thoughts:* Need to get my act together with Bokeh. Also decided on a couple of new projects: 1 pdb entries analyzing headers, resolution by year, method, location, synchrotron, protein class, ...
 for text mining NIH reporter might offer something. 
+
+
+### Day 12: 06/02/2020
+
+*Today's Progress:* I finally plotted the relevant time series. In matplotlib and not in bokeh though. Also downloaded more data
+
+*Thoughts:* I need to rewrite the initial parsing procedure using bz2 files to start with. Decompressing, using command line magic and deleting the massive decrompressed file doesn't seem to be the most elegant way.
