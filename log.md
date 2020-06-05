@@ -91,4 +91,10 @@ for text mining NIH reporter might offer something.
 
 *Today's Progress:* I finally plotted the relevant time series. In matplotlib and not in bokeh though. Also downloaded more data
 
-*Thoughts:* I need to rewrite the initial parsing procedure using bz2 files to start with. Decompressing, using command line magic and deleting the massive decrompressed file doesn't seem to be the most elegant way.
+*Thoughts:* or text mining NIH reporter might offer something. 
+
+### Day 13: 06/04/2020
+
+*Today's Progress:* Created my first dashboard with Panel and Altair
+
+*Thoughts:* dashboards are cool but maybe not the easiest for sharing without a dedicated server
