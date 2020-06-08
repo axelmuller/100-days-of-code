@@ -98,3 +98,9 @@ for text mining NIH reporter might offer something.
 *Today's Progress:* Created my first dashboard with Panel and Altair
 
 *Thoughts:* dashboards are cool but maybe not the easiest for sharing without a dedicated server
+
+### Day 14: 06/08/2020
+
+*Today's Progress:* started new project on pdb files. 
+
+*Thoughts:* I initially planned to use grep to parse out relevant header information. While this would be a quick and dirty approach for some of the information I'm interested in it's probably not the best approach for learning how to do things properly. Hence, I decided to do the whole information extraction process in Python.
