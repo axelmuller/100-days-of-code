@@ -104,3 +104,9 @@ for text mining NIH reporter might offer something.
 *Today's Progress:* started new project on pdb files. 
 
 *Thoughts:* I initially planned to use grep to parse out relevant header information. While this would be a quick and dirty approach for some of the information I'm interested in it's probably not the best approach for learning how to do things properly. Hence, I decided to do the whole information extraction process in Python.
+
+### Day 15: 06/08/2020
+
+**Today's Progress:** setup neovim for Python and looked into TDD
+
+**Thoughts:** Jupyter lab is great but for TDD it's a good idea to have multiple files open I prefer to do this in the terminal as it gives me more monitor real estate.
