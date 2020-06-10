@@ -110,3 +110,10 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** setup neovim for Python and looked into TDD
 
 **Thoughts:** Jupyter lab is great but for TDD it's a good idea to have multiple files open I prefer to do this in the terminal as it gives me more monitor real estate.
+
+
+### Day 16: 06/09/2020
+
+**Today's Progress:** getting the hang of unit tests
+
+**Thoughts:** The PDB meta data project is much more ambitious then planned, I guess there is just so much cool data that waits to be extracted.
