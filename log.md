@@ -117,3 +117,10 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** getting the hang of unit tests
 
 **Thoughts:** The PDB meta data project is much more ambitious then planned, I guess there is just so much cool data that waits to be extracted.
+
+
+### Day 17: 06/10/2020
+
+**Today's Progress:** finished writing all the functions to extract relevant information from pdb files and tested them
+
+**Thoughts:** I have the feeling I should have tested my code first on extracting a limited number of features.
