@@ -124,3 +124,9 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** finished writing all the functions to extract relevant information from pdb files and tested them
 
 **Thoughts:** I have the feeling I should have tested my code first on extracting a limited number of features.
+
+### Day 18: 06/11/2020
+
+**Today's Progress:** sorted out how to extract all the information, need to figure out how to write it to a clean csv file
+
+**Thoughts:** the process of parsing out the information seems to be reasonably straight forward. Using a template dictionary seems to be a good strategy for scenarios like that.
