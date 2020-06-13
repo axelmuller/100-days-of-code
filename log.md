@@ -130,3 +130,10 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** sorted out how to extract all the information, need to figure out how to write it to a clean csv file
 
 **Thoughts:** the process of parsing out the information seems to be reasonably straight forward. Using a template dictionary seems to be a good strategy for scenarios like that.
+
+
+### Day 19: 06/12/2020
+
+**Today's Progress:** added error handling, this hopefully takes care of the issues
+
+**Thoughts:** when trying to extract data from large files or many files and it's unclear that there is a format enforced it seems to be a good idea to use error handling early on
