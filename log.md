@@ -137,3 +137,10 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** added error handling, this hopefully takes care of the issues
 
 **Thoughts:** when trying to extract data from large files or many files and it's unclear that there is a format enforced it seems to be a good idea to use error handling early on
+
+
+### Day 20: 06/13/2020
+
+**Today's Progress:** finally managed to process the pdb data and started some data exploration.
+
+**Thoughts:** when processing user provided data it's dangerous to assume that the format will be coherent. 
