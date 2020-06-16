@@ -144,3 +144,10 @@ for text mining NIH reporter might offer something.
 **Today's Progress:** finally managed to process the pdb data and started some data exploration.
 
 **Thoughts:** when processing user provided data it's dangerous to assume that the format will be coherent. 
+
+
+### Day 21: 06/15/2020
+
+**Today's Progress:** fixed the data error and beamline error. Other issues are due to poor data submitted by users. Also did the first semi useful plots.
+
+**Thoughts:** need to tell a story and select the plots to support it
